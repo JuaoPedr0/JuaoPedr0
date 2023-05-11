@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-martins-1b3915259/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juaopedr0/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaoPedr0&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia 🕹️
 
