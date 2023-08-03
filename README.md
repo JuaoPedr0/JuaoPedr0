@@ -19,3 +19,7 @@
 - [Estiagem Paraná](https://www.idrparana.pr.gov.br/Pagina/Estiagem-Parana-App)<br/>
 - [GID Pragas da Soja](https://www.idrparana.pr.gov.br/Pagina/GID-Pragas-da-Soja-App)<br>
 - [App IDR Clima](https://www.idrparana.pr.gov.br/Pagina/IDR-Clima-App)<br/>
+- [Horas Frio Paraná](https://www.idrparana.pr.gov.br/Pagina/Horas-Frio-Parana-App)<br/>
+
+
+
